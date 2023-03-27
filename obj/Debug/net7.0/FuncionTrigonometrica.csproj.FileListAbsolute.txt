@@ -1,0 +1,15 @@
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\bin\Debug\net7.0\FuncionTrigonometrica.exe
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\bin\Debug\net7.0\FuncionTrigonometrica.deps.json
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\bin\Debug\net7.0\FuncionTrigonometrica.runtimeconfig.json
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\bin\Debug\net7.0\FuncionTrigonometrica.dll
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\bin\Debug\net7.0\FuncionTrigonometrica.pdb
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\obj\Debug\net7.0\FuncionTrigonometrica.csproj.AssemblyReference.cache
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\obj\Debug\net7.0\FuncionTrigonometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\obj\Debug\net7.0\FuncionTrigonometrica.AssemblyInfoInputs.cache
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\obj\Debug\net7.0\FuncionTrigonometrica.AssemblyInfo.cs
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\obj\Debug\net7.0\FuncionTrigonometrica.csproj.CoreCompileInputs.cache
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\obj\Debug\net7.0\FuncionTrigonometrica.dll
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\obj\Debug\net7.0\refint\FuncionTrigonometrica.dll
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\obj\Debug\net7.0\FuncionTrigonometrica.pdb
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\obj\Debug\net7.0\FuncionTrigonometrica.genruntimeconfig.cache
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\FuncionTrigonometrica\obj\Debug\net7.0\ref\FuncionTrigonometrica.dll
